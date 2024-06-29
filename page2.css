@@ -1,0 +1,7 @@
+.bg-img{
+    background-image: url(./assets/beach.jpg);
+    width: 500px;
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
